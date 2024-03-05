@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "fix-czech-text-latex",
+	"name": "Fix Czech text generated with LaTeX",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Fix Czech text generated with LaTeX ('v pˇr´ıpadˇe' → 'v případě')",
+	"author": "Jakub Andrýsek",
+	"authorUrl": "https://kubaandrysek.cz",
+	"fundingUrl": "https://github.com/sponsors/JakubAndrysek",
 	"isDesktopOnly": false
 }
